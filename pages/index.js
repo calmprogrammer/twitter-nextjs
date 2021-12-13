@@ -5,7 +5,7 @@ export default function Home() {
 	return (
 		<div className="">
 			<Head>
-				<title>Twitter</title>
+				<title>Home / Twitter</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
